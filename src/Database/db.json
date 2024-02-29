@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Joe Root",
+      "salary": "3000000",
+      "company": "ECB",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGFyesYhu4THPgQcJpXyOIDpobN3D4YwjDWzP9vmVdBdxmix9UwDmJHKlknjiEljvhU3c&usqp=CAU",
+      "color": "Red",
+      "id": "f5f2"
+    },
+    {
+      "id": "a42d",
+      "name": "v",
+      "salary": "74185",
+      "company": "cvbnm",
+      "img": "https://media.istockphoto.com/id/1286823354/vector/update-icon-elegant-glass-blue-round-button-vector-design-illustration.jpg?s=612x612&w=0&k=20&c=Ph3xygA1n0RuzgSmkhDwT-SvZx0OpZNTfrFN6GaO0zg=",
+      "color": "#ff0000"
+    },
+    {
+      "id": "2f59",
+      "name": "vbnm,",
+      "salary": "vbnm",
+      "company": "cvbn",
+      "img": "https://png.pngitem.com/pimgs/s/421-4212929_add-new-member-icon-clipart-png-download-add.png",
+      "color": "#d01616"
+    }
+  ]
+}
